@@ -1,5 +1,5 @@
-require('./bootstrap');
-require('./directives');
-require('./components');
+require("./bootstrap");
+require("./directives");
+require("./components");
 
-(new Vue({ el: '#app'}));
+new Vue({ el: "#app" });
